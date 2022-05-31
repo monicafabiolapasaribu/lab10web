@@ -14,7 +14,7 @@ Langkah-langkah Praktikum
 
 3. Buat folder baru dengan nama lab10_php_oop pada docroot webserver (htdocs)
 
-![image](https://user-images.githubusercontent.com/101724604/171190087-6ffcc303-1d7a-4d68-87e2-91bd03060b71.png)
+![image](https://user-images.githubusercontent.com/101724604/171190463-fc998bfd-2e1f-479c-8376-a7d0af6c74c9.png)
 
 
 4. Buat file baru dengan nama mobil.php
